@@ -1,0 +1,1 @@
+function [L1, L2] = distancia(p1,p2)
